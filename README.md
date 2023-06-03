@@ -18,7 +18,7 @@ Keras (tested on version 2.4.3)
 ## Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/MUzairAnees/FER2023-MUA.git
 
 Navigate to the cloned directory:
 cd your_project
